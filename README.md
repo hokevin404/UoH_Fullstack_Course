@@ -1,1 +1,31 @@
 # UoH_Fullstack_Course
+
+Respository for self-learning of a Fullstack course from the University of Helsinki at https://fullstackopen.com/en/. There is a total of 13 Parts, of which, Parts 1 - 5 are the core of the course. Parts 6 - 13 are extensions to further learn about other parts of Fullstack Web Developement. The Parts are as follows:
+  - Part 0
+    - Fundamentals of Web apps
+  - Part 1
+    - Introduction to React
+  - Part 2
+    - Communicating with server
+  - Part 3
+      - Programming a server with NodeJS and Express
+  - Part 4
+      - Testing Express servers, user administration
+  - Part 5
+      - Testing React apps
+  - Part 6
+      - State management with Redux
+  - Part 7
+      - React router, custom hooks, styling app with CSS and webpack
+  - Part 8
+      - GraphQL
+  - Part 9
+      - TypeScript
+  - Part 10
+      - React Native
+  - Part 11
+      - CI/CD
+  - Part 12
+      - Containers
+  - Part 13
+      - Using relational databases
