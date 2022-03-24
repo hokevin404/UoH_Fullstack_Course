@@ -1,4 +1,4 @@
-Introduction to React
+# Introduction to React
 
 We will now start getting familiar with probably the most important topic of this course, namely the React-library. Let's start off with making a simple React application as well as getting to know the core concepts of React.
 
