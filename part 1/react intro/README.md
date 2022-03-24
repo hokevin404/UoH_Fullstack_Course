@@ -11,9 +11,9 @@ npx create-react-app part1
 cd part1
 ```
 The application is run as follows:
-
+```
 npm start
-
+```
 By default, the application runs in localhost port 3000 with the address http://localhost:3000
 
 Your default browser should launch automatically. Open the browser console immediately. 
