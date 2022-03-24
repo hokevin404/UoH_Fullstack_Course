@@ -6,9 +6,10 @@ The easiest way to get started by far is by using a tool called create-react-app
 
 Let's create an application called part1 and navigate to its directory.
 
+```
 npx create-react-app part1
 cd part1
-
+```
 The application is run as follows:
 
 npm start
